@@ -1,7 +1,7 @@
 # 💫 About Me:
-### Hello there! My name is Ender2K89. I am a Python & front-end developer.
-### My pronouns are they/them. I speak English, German and Polish.
-### I specialize in making Discord Bots.
+Hello there! My name is Ender2K89. I am a Python & front-end developer.
+My pronouns are they/them. I speak English, German and Polish.
+I specialize in making Discord Bots.
 
 
 ## 💻 Tech Stack:
