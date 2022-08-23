@@ -22,4 +22,3 @@ I specialize in making Discord Bots.
 
 ## 📊 Other Stuff ----
 ![All Github Stats](https://github-readme-stats.vercel.app/api?username=Ender2K89&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-![Discord Profile](https://lanyard.cnrad.dev/api/1007988880491937862)
