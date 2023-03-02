@@ -3,6 +3,9 @@ Hello there! My name is Ender2K89, also known as Ender Yeeterson or just Ender.
 My pronouns are he/him. I speak English, German, Polish, and I am currently learning Dutch and soon French.
 I specialize in developing Minecraft Servers, Discord Bots and websites.
 
+## Notice ⚠️
+As you can see, I do not have that many projects, that is because, most of my projects are on [`this organization`](https://github.com/Korino-Development).
+
 
 ## Tools & Technologies 💻
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
