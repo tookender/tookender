@@ -1,8 +1,6 @@
 # About Me 💫
 Hello there! My name is Ender2K89, also known as Ender Yeeterson or just Ender.
-
 My pronouns are he/him. I speak English, German, Polish, and I am currently learning Dutch and soon French.
-
 I specialize in developing Minecraft Servers, Discord Bots and websites.
 
 ## Notice ⚠️
