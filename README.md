@@ -2,7 +2,7 @@
 >> neofetch
 ```
 
-<img align="left" width="120" height="120" style="border-radius: 9999px;" source="https://cdn.discordapp.com/avatars/1022842005920940063/fb69dd9991f2f64b7bfa7b54cdb9921b.png">
+<img align="left" width="200" height="200" style="border-radius: 9999px;" source="https://cdn.discordapp.com/avatars/1022842005920940063/fb69dd9991f2f64b7bfa7b54cdb9921b.png">
 
 
 ```py
