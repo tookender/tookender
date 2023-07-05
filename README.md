@@ -2,9 +2,6 @@
 >> neofetch
 ```
 
-<img align="left" width="200" height="200" src="https://cdn.discordapp.com/avatars/1022842005920940063/fb69dd9991f2f64b7bfa7b54cdb9921b.png">
-
-
 ```py
   Names     : Ender, Ender2K89, Ender Yeeterson
   Discord   : 1022842005920940063 :: Ender2K89#9999
