@@ -1,5 +1,6 @@
 # ender
-hello there i'm a developer, gamer and femboy.\n
+hello there i'm a developer, gamer and femboy.
+<br>
 i live in germany and speak german, polish, english and french
 
 ### contact me
