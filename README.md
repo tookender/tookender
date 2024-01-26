@@ -1,5 +1,5 @@
-# [ender :3](https://github.com/tookender)
-hello there i'm a developer, gamer and femboy.
+# [ender](https://github.com/tookender)
+hello there i'm a developer and a gamer.
 <br>
 i live in germany and speak german, polish, english, and french
 
