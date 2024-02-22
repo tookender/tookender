@@ -27,6 +27,6 @@ i live in germany and speak english, german, polish, and french
     <summary>setup pic</summary>
     taken on samsung s21+
     <br>
-    <img src="https://cdn.discordapp.com/attachments/1140671319806050356/1200935925656596480/photo.png" height="360px" width="640px">
+    <img src="https://cdn.korino.dev/u/RccUGq.jpg" height="360px" width="640px">
   </details>
 </details>
