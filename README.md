@@ -3,7 +3,6 @@ hello there, i'm a developer and a gamer.
 <br>
 i live in germany and speak english, german, polish, and french
 <br>
-*^^ in order of fluency*
 
 ### contact me
 - discord: [`@tookender`](https://discord.com/users/1022842005920940063)
@@ -12,7 +11,7 @@ i live in germany and speak english, german, polish, and french
 <details>
   <summary>my specs</summary>
   
-  - CPU: [`AMD Ryzen 9 5950X`](https://www.amd.com/en/products/cpu/amd-ryzen-9-5950x)
+  - CPU: [`AMD Ryezen 9 5950X`](https://www.amd.com/en/products/cpu/amd-ryzen-9-5950x)
   - CPU Cooler: [`Corsair H100i AIO`](https://www.corsair.com//p/cpu-coolers/cw-9060046-ww/icue-h100i-elite-capellix-liquid-cpu-cooler-cw-9060046-ww)
   - Motherboard: [`Rog Strix B550-E Gaming`](https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-e-gaming-model/)
   - Memory: [`Corsair 64GB (4x16GB) 3200MHz`](https://www.corsair.com/p/memory/cmw64gx4m4e3200c16/vengeancea-rgb-pro-64gb-4-x-16gb-ddr4-dram-3200mhz-c16-memory-kit-a-black-cmw64gx4m4e3200c16)
