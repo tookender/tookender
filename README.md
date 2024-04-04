@@ -6,7 +6,6 @@ i live in germany and speak english, german, polish, and french
 
 ### contact me
 - discord: [`@tookender`](https://discord.com/users/1022842005920940063)
-- email: [`ender@korino.dev`](mailto:ender@korino.dev)
 
 <details>
   <summary>my specs</summary>
