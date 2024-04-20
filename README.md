@@ -29,3 +29,5 @@ i live in germany and speak english, german, polish, and french
     <img src="https://cdn.korino.dev/u/RccUGq.jpg" height="360px" width="640px">
   </details>
 </details>
+
+(btw my commits are empty because i only now figured out, i was committing without using my github username*
