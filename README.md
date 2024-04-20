@@ -30,4 +30,4 @@ i live in germany and speak english, german, polish, and french
   </details>
 </details>
 
-(btw my commits are empty because i only now figured out, i was committing without using my github username*
+*(btw my commits are empty because i only now figured out, i was committing without using my github username)*
