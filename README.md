@@ -3,6 +3,7 @@ hello there, i'm a developer and a gamer.
 <br>
 i live in germany and speak english, german, polish, and french
 <br>
+![](https://komarev.com/ghpvc/?username=tookender&style=flat)
 
 ### contact me
 - discord: [`@tookender`](https://discord.com/users/1022842005920940063)
