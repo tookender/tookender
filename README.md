@@ -23,6 +23,14 @@ i live in germany and speak english, german, polish, and french
   - Monitor: [`Samsung Odyssey G9 49" 240Hz 5120x1440`](https://www.samsung.com/ch/monitors/gaming/odyssey-g9-49-inch-240hz-1ms-curved-lc49g95tssrxen/)
 
   <details>
+    <summary>my peripherals</summary>
+    - Keyboard: [`Steelseries Apex Pro`](https://steelseries.com/gaming-keyboards/apex-pro)
+    - Keycaps: [`Steelseries White Prismcaps`](https://steelseries.com/gaming-accessories/prismcaps)
+    - Mouse: [`Roccat Kain 120 Aimo`](https://www.amazon.com/Kain-120-Aimo-Gaming-Mouse/dp/B07SVNX78P)
+    - Mousepad: [`Steelseries QcK Prism XL Neon Rider Edition`](https://steelseries.com/gaming-mousepads/qck-prism-xl-neon-rider)
+  </details>
+
+  <details>
     <summary>setup pic</summary>
     taken on samsung s21+
     <br>
