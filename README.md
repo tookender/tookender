@@ -3,7 +3,7 @@ I'm a full-stack developer and a gamer.
 <br>
 I live in Germany and speak English, German, Polish and a bit of French.
 <br>
-I mainly specialize in TypeScript, unlike my languages graph says, but sometimes I use a bit of Python.
+I mainly specialize in TypeScript, unlike my languages graph implies, but sometimes I use a bit of Python.
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tookender&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
