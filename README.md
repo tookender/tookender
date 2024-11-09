@@ -1,9 +1,8 @@
 # 👋 hello! I'm [ender](https://github.com/tookender)
-🌐 full-stack developer from Germany
-🧩 currently working on my [website](https://korino.dev)
-🗓️ programming since 2020
-🗣️ speak English, German and Polish
-I'm a full-stack developer and a gamer.
+🌐 full-stack developer from Germany<br>
+🧩 currently working on my [website](https://korino.dev)<br>
+🗓️ programming since 2020<br>
+🗣️ speak English, German and Polish<br>
 
 <br>
 <div align="center">
