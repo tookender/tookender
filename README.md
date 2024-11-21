@@ -1,5 +1,5 @@
 # 👋 hello! I'm [ender](https://github.com/tookender)
-🌐 full-stack developer from Germany<br>
+🌐 full-stack developer in Germany<br>
 🧩 currently working on my [website](https://korino.dev)<br>
 🗓️ programming since 2020<br>
 🗣️ speak English, German and Polish<br>
