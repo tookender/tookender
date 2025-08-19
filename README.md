@@ -1,14 +1,10 @@
 # 👋 hello! I'm [ender](https://github.com/tookender)
 🌐 full-stack developer in Germany<br>
-🧩 currently working on [baobun](https://baobun.dev) (6mil+ users across 6k+ guilds)<br> 
-🗓️ programming since 2020<br>
-🗣️ speak English, German and Polish<br>
+🧩 currently working on [baobun](https://baobun.dev) (6mil+ users across 7k+ guilds)<br> 
+🐕 click [here](https://korino.dev/doggo) to view pictures of my dog
 
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tookender&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tookender&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
+## 💻 tech stack
+![my skills](https://skillicons.dev/icons?i=ts,js,html,css,py,java,bash,md,nodejs,bun,nextjs,react,tailwind,flask,cloudflare,discord,docker,git,vscode,linux,github)
 
-# 💻 tech stack
-[![my skills](https://skillicons.dev/icons?i=bash,cloudflare,css,discord,docker,flask,git,github,html,java,js,linux,md,nextjs,nodejs,py,react,ts,vscode,tailwind)](https://skillicons.dev)
+## 💬 discord profile
+[![Discord Presence](https://lanyard.cnrad.dev/api/1022842005920940063)](https://discord.com/users/1022842005920940063)
