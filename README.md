@@ -1,6 +1,6 @@
 # 👋 hello! I'm [ender](https://github.com/tookender)
 🌐 full-stack developer in Germany<br>
-🧩 currently working on [baobun](https://baobun.dev)<br> (6mil+ users across 6k+ guilds)
+🧩 currently working on [baobun](https://baobun.dev) (6mil+ users across 6k+ guilds)<br> 
 🗓️ programming since 2020<br>
 🗣️ speak English, German and Polish<br>
 
