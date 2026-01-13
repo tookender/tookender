@@ -1,5 +1,5 @@
 # 👋 hello! I'm [ender](https://github.com/tookender)
-🌐 full-stack developer in Germany<br>
+🌐 full-stack developer<br>
 🧩 currently working on [baobun](https://baobun.dev) (8mil+ users across 10k+ guilds)<br> 
 🐕 click [here](https://korino.dev/doggo) to view pictures of my dog
 
