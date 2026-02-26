@@ -1,7 +1,7 @@
 # 👋 hello! I'm [ender](https://github.com/tookender)
-🌐 full-stack developer<br>
-🧩 currently working on [baobun](https://baobun.dev) (8mil+ users across 10k+ guilds)<br> 
-🐕 click [here](https://korino.dev/doggo) to view pictures of my dog
+🌐 full-stack developer in Germany<br>
+🧩 currently working on [baobun](https://www.baobun.dev) (10mil+ users across 15k+ communities)<br> 
+🐕 [pictures of my dog](https://korino.dev/doggo)
 
 ## 💻 tech stack
 ![my skills](https://skillicons.dev/icons?i=ts,js,html,css,py,java,bash,md,nodejs,bun,nextjs,react,tailwind,flask,cloudflare,discord,docker,git,vscode,linux,github)
