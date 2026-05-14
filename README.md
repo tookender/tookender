@@ -1,5 +1,5 @@
 ### Software Engineer
-- 🧩 Currently working on [baobun](https://www.baobun.dev), Discord bot serving 17k+ servers / 12+ million users
+- 🧩 Currently working on [baobun](https://www.baobun.dev), Discord bot serving 17k+ servers / 12m+ users
 - 🌍 Based in Germany
 
 ### Tech I use
